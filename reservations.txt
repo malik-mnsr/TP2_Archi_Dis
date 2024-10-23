@@ -1,0 +1,54 @@
+Reservation Confirmed!
+Hotel: Hotel A
+Arrival Date: 2024-10-20
+Departure Date: 2024-11-25
+Number of Persons: 2
+Total Price: 200,00
+Client: Malik MANSOUR
+Credit Card: 210999
+-----------------------------------------------------
+Reservation Confirmed!
+Hotel: Hotel A
+Arrival Date: 2024-10-20
+Departure Date: 2024-11-25
+Number of Persons: 2
+Total Price: 200,00
+Client: Malik MANSOUR
+Credit Card: 210999
+-----------------------------------------------------
+Reservation Confirmed!
+Hotel: Hotel A
+Arrival Date: 2024-10-20
+Departure Date: 2024-11-25
+Number of Persons: 2
+Total Price: 200,00
+Client: Malik MANSOUR
+Credit Card: 210999
+-----------------------------------------------------
+Reservation Confirmed!
+Hotel: Hotel A
+Arrival Date: 2024-10-25
+Departure Date: 2024-11-25
+Number of Persons: 2
+Total Price: 200,00
+Client: Malik Mansour
+Credit Card: 210999
+-----------------------------------------------------
+Reservation Confirmed!
+Hotel: Hotel A
+Arrival Date: 
+Departure Date: 2024-12-25
+Number of Persons: 1
+Total Price: 100,00
+Client: Malik MANSOUR
+Credit Card: 210999
+-----------------------------------------------------
+Reservation Confirmed!
+Hotel: Hotel A
+Arrival Date: 2024-11-26
+Departure Date: 2024-11-26
+Number of Persons: 2
+Total Price: 200,00
+Client: Malik Mansour
+Credit Card: 210999
+-----------------------------------------------------
